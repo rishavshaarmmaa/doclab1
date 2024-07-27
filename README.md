@@ -1,3 +1,3 @@
 # doclab1
 this is my repository
-Author - Rishav Raj
+Author - Rishav Raj(dav)
